@@ -8,7 +8,7 @@ export const Container = styled.div`
 `
 
 export const HomeImage = styled.div`
-  background-image: url('https://ma-hub.imgix.net/wp-images/2019/05/29222105/royalty-free-music-Ambient.jpg');
+  background-image: url('https://images5.alphacoders.com/546/thumb-1920-546181.jpg');
   display: flex;
   flex-direction: column;
   justify-content: center;

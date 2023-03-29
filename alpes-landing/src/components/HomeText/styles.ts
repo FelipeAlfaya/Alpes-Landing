@@ -14,6 +14,7 @@ export const Container = styled.div`
 
 export const BigText = styled.h1`
   font-size: 3rem;
+  display: block;
   font-weight: 100;
   line-height: 1;
   color: ${({ theme }) => theme.grey};

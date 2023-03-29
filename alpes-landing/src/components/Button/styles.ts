@@ -6,7 +6,7 @@ export const Container = styled.div`
   align-items: center;
   border: 1px solid ${(props) => props.theme.secondary};
   height: 30px;
-  width: 125px;
+  width: 150px;
   border-radius: 50px;
   text-transform: uppercase;
   user-select: none;
